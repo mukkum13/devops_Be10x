@@ -1,0 +1,15 @@
+{
+  "0": "bindEvents",
+  "1": "app.js",
+  "2": "PRD: Personal Finance Webapp (working name: \"PocketLedger\")",
+  "3": "renderBudgets",
+  "4": "importCsv",
+  "5": "money",
+  "6": "showToast",
+  "7": "openTransaction",
+  "8": "1. Overview",
+  "9": "categoryStyle",
+  "10": "6. UX Requirements",
+  "11": "4. Functional Requirements",
+  "12": "7. Suggested Technical Approach (for Engineering to confirm)"
+}
